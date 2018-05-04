@@ -1,0 +1,748 @@
+# depslib dependency file v1.0
+1521707845 source:c:\users\hp\desktop\421\condisplay.cpp
+	"ConDisplay.h"
+
+1522025827 c:\users\hp\desktop\421\condisplay.h
+	<windows.h>
+	"Editdata.h"
+	"config.h"
+
+1522630537 c:\users\hp\desktop\421\editdata.h
+	<string.h>
+	<windows.h>
+	"config.h"
+
+1522629949 c:\users\hp\desktop\421\config.h
+
+1522639611 source:c:\users\hp\desktop\421\editdata.cpp
+	"Editdata.h"
+
+1522036541 source:c:\users\hp\desktop\421\fileoper.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<iomanip>
+	<cstring>
+	"FileOper.h"
+
+1522025076 c:\users\hp\desktop\421\fileoper.h
+	<fstream>
+	"MSG.h"
+	"O_name.h"
+	"Editdata.h"
+
+1521703151 c:\users\hp\desktop\421\msg.h
+	"Editdata.h"
+
+1522036157 c:\users\hp\desktop\421\o_name.h
+
+1522640268 source:c:\users\hp\desktop\421\main.cpp
+	<iostream>
+	"Editdata.h"
+	"FileOper.h"
+	"TextEdit.h"
+	"MSG.h"
+	"ConDisplay.h"
+
+1522036687 c:\users\hp\desktop\421\textedit.h
+	<iostream>
+	<cstring>
+	"windows.h"
+	"MSG.h"
+	"O_name.h"
+	"Editdata.h"
+	"RepealStack.h"
+	"Queue.h"
+
+1522035501 c:\users\hp\desktop\421\repealstack.h
+	"MSG.h"
+
+1522036837 c:\users\hp\desktop\421\queue.h
+	<stdlib.h>
+	<windows.h>
+	"MSG.h"
+
+1522036616 source:c:\users\hp\desktop\421\queue.cpp
+	"queue.h"
+
+1522035519 source:c:\users\hp\desktop\421\repealstack.cpp
+	<iostream>
+	<stdlib.h>
+	"repealstack.h"
+
+1522640037 source:c:\users\hp\desktop\421\textedit.cpp
+	"TextEdit.h"
+
+1521707845 source:c:\users\hp\desktop\test\421\condisplay.cpp
+	"ConDisplay.h"
+
+1522025827 c:\users\hp\desktop\test\421\condisplay.h
+	<windows.h>
+	"Editdata.h"
+	"config.h"
+
+1522630537 c:\users\hp\desktop\test\421\editdata.h
+	<string.h>
+	<windows.h>
+	"config.h"
+
+1522629949 c:\users\hp\desktop\test\421\config.h
+
+1522639611 source:c:\users\hp\desktop\test\421\editdata.cpp
+	"Editdata.h"
+
+1522036541 source:c:\users\hp\desktop\test\421\fileoper.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<iomanip>
+	<cstring>
+	"FileOper.h"
+
+1522025076 c:\users\hp\desktop\test\421\fileoper.h
+	<fstream>
+	"MSG.h"
+	"O_name.h"
+	"Editdata.h"
+
+1521703151 c:\users\hp\desktop\test\421\msg.h
+	"Editdata.h"
+
+1522036157 c:\users\hp\desktop\test\421\o_name.h
+
+1522036616 source:c:\users\hp\desktop\test\421\queue.cpp
+	"queue.h"
+
+1522036837 c:\users\hp\desktop\test\421\queue.h
+	<stdlib.h>
+	<windows.h>
+	"MSG.h"
+
+1522035519 source:c:\users\hp\desktop\test\421\repealstack.cpp
+	<iostream>
+	<stdlib.h>
+	"repealstack.h"
+
+1522035501 c:\users\hp\desktop\test\421\repealstack.h
+	"MSG.h"
+
+1522640656 source:c:\users\hp\desktop\test\421\textedit.cpp
+	"TextEdit.h"
+
+1522036687 c:\users\hp\desktop\test\421\textedit.h
+	<iostream>
+	<cstring>
+	"windows.h"
+	"MSG.h"
+	"O_name.h"
+	"Editdata.h"
+	"RepealStack.h"
+	"Queue.h"
+
+1522642279 source:c:\users\hp\desktop\test\421\emsgpack.cpp
+	"EmsgPack.h"
+
+1522642161 c:\users\hp\desktop\test\421\emsgpack.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	<string>
+	"queue.h"
+	"O_name.h"
+	"ConDisplay.h"
+	"Editdata.h"
+	"FileOper.h"
+	"TextEdit.h"
+	"MSG.h"
+
+1522642343 source:c:\users\hp\desktop\test\421\main.cpp
+	<iostream>
+	"Editdata.h"
+	"FileOper.h"
+	"TextEdit.h"
+	"MSG.h"
+	"ConDisplay.h"
+	"EmsgPack.h"
+
+1523176761 source:c:\users\lenovo\desktop\421\condisplay.cpp
+	"ConDisplay.h"
+
+1523176766 c:\users\lenovo\desktop\421\condisplay.h
+	<windows.h>
+	"MSG.h"
+	"Editdata.h"
+	"config.h"
+
+1523076274 c:\users\lenovo\desktop\421\editdata.h
+	<string.h>
+	<windows.h>
+	"config.h"
+
+1522629950 c:\users\lenovo\desktop\421\config.h
+
+1523176919 source:c:\users\lenovo\desktop\421\editdata.cpp
+	"Editdata.h"
+
+1523183956 source:c:\users\lenovo\desktop\421\emsgpack.cpp
+	"EmsgPack.h"
+
+1523188151 c:\users\lenovo\desktop\421\emsgpack.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	<string>
+	"queue.h"
+	"O_name.h"
+	"ConDisplay.h"
+	"Editdata.h"
+	"FileOper.h"
+	"TextEdit.h"
+	"MSG.h"
+
+1523178195 c:\users\lenovo\desktop\421\queue.h
+	<stdlib.h>
+	<windows.h>
+	"MSG.h"
+
+1521703152 c:\users\lenovo\desktop\421\msg.h
+	"Editdata.h"
+
+1523106994 c:\users\lenovo\desktop\421\o_name.h
+
+1522025078 c:\users\lenovo\desktop\421\fileoper.h
+	<fstream>
+	"MSG.h"
+	"O_name.h"
+	"Editdata.h"
+
+1523095849 c:\users\lenovo\desktop\421\textedit.h
+	<iostream>
+	<cstring>
+	"windows.h"
+	"MSG.h"
+	"O_name.h"
+	"Editdata.h"
+	"RepealStack.h"
+	"Queue.h"
+
+1522035502 c:\users\lenovo\desktop\421\repealstack.h
+	"MSG.h"
+
+1523106790 source:c:\users\lenovo\desktop\421\fileoper.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<iomanip>
+	<cstring>
+	"FileOper.h"
+
+1523184522 source:c:\users\lenovo\desktop\421\main.cpp
+	<iostream>
+	<pthread.h>
+	<windows.h>
+	"Editdata.h"
+	"FileOper.h"
+	"TextEdit.h"
+	"MSG.h"
+	"ConDisplay.h"
+	"EmsgPack.h"
+
+1523178195 source:c:\users\lenovo\desktop\421\queue.cpp
+	"queue.h"
+
+1522035520 source:c:\users\lenovo\desktop\421\repealstack.cpp
+	<iostream>
+	<stdlib.h>
+	"repealstack.h"
+
+1523183200 source:c:\users\lenovo\desktop\421\textedit.cpp
+	"TextEdit.h"
+
+1523091643 source:c:\users\dell\desktop\421\condisplay.cpp
+	"ConDisplay.h"
+
+1523090514 c:\users\dell\desktop\421\condisplay.h
+	<windows.h>
+	"MSG.h"
+	"Editdata.h"
+	"config.h"
+
+1521703152 c:\users\dell\desktop\421\msg.h
+	"Editdata.h"
+
+1523076274 c:\users\dell\desktop\421\editdata.h
+	<string.h>
+	<windows.h>
+	"config.h"
+
+1522629950 c:\users\dell\desktop\421\config.h
+
+1523090968 source:c:\users\dell\desktop\421\editdata.cpp
+	"Editdata.h"
+
+1523091370 source:c:\users\dell\desktop\421\emsgpack.cpp
+	"EmsgPack.h"
+
+1523012376 c:\users\dell\desktop\421\emsgpack.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	<string>
+	"queue.h"
+	"O_name.h"
+	"ConDisplay.h"
+	"Editdata.h"
+	"FileOper.h"
+	"TextEdit.h"
+	"MSG.h"
+
+1522036838 c:\users\dell\desktop\421\queue.h
+	<stdlib.h>
+	<windows.h>
+	"MSG.h"
+
+1522036158 c:\users\dell\desktop\421\o_name.h
+
+1522025078 c:\users\dell\desktop\421\fileoper.h
+	<fstream>
+	"MSG.h"
+	"O_name.h"
+	"Editdata.h"
+
+1522036688 c:\users\dell\desktop\421\textedit.h
+	<iostream>
+	<cstring>
+	"windows.h"
+	"MSG.h"
+	"O_name.h"
+	"Editdata.h"
+	"RepealStack.h"
+	"Queue.h"
+
+1522035502 c:\users\dell\desktop\421\repealstack.h
+	"MSG.h"
+
+1522036542 source:c:\users\dell\desktop\421\fileoper.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<iomanip>
+	<cstring>
+	"FileOper.h"
+
+1523090943 source:c:\users\dell\desktop\421\main.cpp
+	<iostream>
+	"Editdata.h"
+	"FileOper.h"
+	"TextEdit.h"
+	"MSG.h"
+	"ConDisplay.h"
+	"EmsgPack.h"
+
+1522036618 source:c:\users\dell\desktop\421\queue.cpp
+	"queue.h"
+
+1522035520 source:c:\users\dell\desktop\421\repealstack.cpp
+	<iostream>
+	<stdlib.h>
+	"repealstack.h"
+
+1523076638 source:c:\users\dell\desktop\421\textedit.cpp
+	"TextEdit.h"
+
+1523176762 source:c:\users\hp\desktop\editor\condisplay.cpp
+	"ConDisplay.h"
+
+1523176768 c:\users\hp\desktop\editor\condisplay.h
+	<windows.h>
+	"MSG.h"
+	"Editdata.h"
+	"config.h"
+
+1521703152 c:\users\hp\desktop\editor\msg.h
+	"Editdata.h"
+
+1523076274 c:\users\hp\desktop\editor\editdata.h
+	<string.h>
+	<windows.h>
+	"config.h"
+
+1522629950 c:\users\hp\desktop\editor\config.h
+
+1523176920 source:c:\users\hp\desktop\editor\editdata.cpp
+	"Editdata.h"
+
+1523237976 source:c:\users\hp\desktop\editor\fileoper.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<iomanip>
+	<cstring>
+	"FileOper.h"
+
+1523237704 c:\users\hp\desktop\editor\fileoper.h
+	<fstream>
+	"MSG.h"
+	"O_name.h"
+	"Editdata.h"
+
+1523236770 c:\users\hp\desktop\editor\o_name.h
+
+1523236266 source:c:\users\hp\desktop\editor\main.cpp
+	<iostream>
+	<pthread.h>
+	<windows.h>
+	"Editdata.h"
+	"FileOper.h"
+	"TextEdit.h"
+	"MSG.h"
+	"ConDisplay.h"
+	"EmsgPack.h"
+
+1523095850 c:\users\hp\desktop\editor\textedit.h
+	<iostream>
+	<cstring>
+	"windows.h"
+	"MSG.h"
+	"O_name.h"
+	"Editdata.h"
+	"RepealStack.h"
+	"Queue.h"
+
+1522035502 c:\users\hp\desktop\editor\repealstack.h
+	"MSG.h"
+
+1523178196 c:\users\hp\desktop\editor\queue.h
+	<stdlib.h>
+	<windows.h>
+	"MSG.h"
+
+1523237350 c:\users\hp\desktop\editor\emsgpack.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	<string>
+	"queue.h"
+	"O_name.h"
+	"ConDisplay.h"
+	"Editdata.h"
+	"FileOper.h"
+	"TextEdit.h"
+	"MSG.h"
+
+1523178196 source:c:\users\hp\desktop\editor\queue.cpp
+	"queue.h"
+
+1523237723 source:c:\users\hp\desktop\editor\repealstack.cpp
+	<iostream>
+	<stdlib.h>
+	"repealstack.h"
+
+1523183202 source:c:\users\hp\desktop\editor\textedit.cpp
+	"TextEdit.h"
+
+1523238013 source:c:\users\hp\desktop\editor\emsgpack.cpp
+	"EmsgPack.h"
+
+1523809508 source:c:\users\hp\desktop\editor\project\condisplay.cpp
+	"ConDisplay.h"
+
+1523809540 c:\users\hp\desktop\editor\project\condisplay.h
+	<windows.h>
+	"MSG.h"
+	"Editdata.h"
+	"config.h"
+
+1523812214 c:\users\hp\desktop\editor\project\msg.h
+	"Editdata.h"
+
+1523809718 c:\users\hp\desktop\editor\project\editdata.h
+	<string.h>
+	<windows.h>
+	"config.h"
+
+1523802208 c:\users\hp\desktop\editor\project\config.h
+
+1523809662 source:c:\users\hp\desktop\editor\project\editdata.cpp
+	"Editdata.h"
+
+1523842219 source:c:\users\hp\desktop\editor\project\fileoper.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<iomanip>
+	<cstring>
+	<math.h>
+	"FileOper.h"
+
+1523840625 c:\users\hp\desktop\editor\project\fileoper.h
+	<fstream>
+	"MSG.h"
+	"O_name.h"
+	"Editdata.h"
+
+1523236772 c:\users\hp\desktop\editor\project\o_name.h
+
+1523840924 source:c:\users\hp\desktop\editor\project\main.cpp
+	<iostream>
+	<pthread.h>
+	<windows.h>
+	"Editdata.h"
+	"FileOper.h"
+	"TextEdit.h"
+	"MSG.h"
+	"ConDisplay.h"
+	"EmsgPack.h"
+
+1523095850 c:\users\hp\desktop\editor\project\textedit.h
+	<iostream>
+	<cstring>
+	"windows.h"
+	"MSG.h"
+	"O_name.h"
+	"Editdata.h"
+	"RepealStack.h"
+	"Queue.h"
+
+1522035502 c:\users\hp\desktop\editor\project\repealstack.h
+	"MSG.h"
+
+1523178196 c:\users\hp\desktop\editor\project\queue.h
+	<stdlib.h>
+	<windows.h>
+	"MSG.h"
+
+1523246346 c:\users\hp\desktop\editor\project\emsgpack.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	<string>
+	"queue.h"
+	"O_name.h"
+	"ConDisplay.h"
+	"Editdata.h"
+	"FileOper.h"
+	"TextEdit.h"
+	"MSG.h"
+
+1523178196 source:c:\users\hp\desktop\editor\project\queue.cpp
+	"queue.h"
+
+1523807926 source:c:\users\hp\desktop\editor\project\repealstack.cpp
+	<iostream>
+	<stdlib.h>
+	"repealstack.h"
+
+1523807790 source:c:\users\hp\desktop\editor\project\textedit.cpp
+	"TextEdit.h"
+
+1523812214 source:c:\users\hp\desktop\editor\project\emsgpack.cpp
+	"EmsgPack.h"
+
+1523809506 source:c:\users\lenovo\desktop\editor\project\condisplay.cpp
+	"ConDisplay.h"
+
+1523809538 c:\users\lenovo\desktop\editor\project\condisplay.h
+	<windows.h>
+	"MSG.h"
+	"Editdata.h"
+	"config.h"
+
+1523812213 c:\users\lenovo\desktop\editor\project\msg.h
+	"Editdata.h"
+
+1523809716 c:\users\lenovo\desktop\editor\project\editdata.h
+	<string.h>
+	<windows.h>
+	"config.h"
+
+1523802208 c:\users\lenovo\desktop\editor\project\config.h
+
+1523809660 source:c:\users\lenovo\desktop\editor\project\editdata.cpp
+	"Editdata.h"
+
+1523812212 source:c:\users\lenovo\desktop\editor\project\emsgpack.cpp
+	"EmsgPack.h"
+
+1523246346 c:\users\lenovo\desktop\editor\project\emsgpack.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	<string>
+	"queue.h"
+	"O_name.h"
+	"ConDisplay.h"
+	"Editdata.h"
+	"FileOper.h"
+	"TextEdit.h"
+	"MSG.h"
+
+1523178196 c:\users\lenovo\desktop\editor\project\queue.h
+	<stdlib.h>
+	<windows.h>
+	"MSG.h"
+
+1523236772 c:\users\lenovo\desktop\editor\project\o_name.h
+
+1523237706 c:\users\lenovo\desktop\editor\project\fileoper.h
+	<fstream>
+	"MSG.h"
+	"O_name.h"
+	"Editdata.h"
+
+1523095850 c:\users\lenovo\desktop\editor\project\textedit.h
+	<iostream>
+	<cstring>
+	"windows.h"
+	"MSG.h"
+	"O_name.h"
+	"Editdata.h"
+	"RepealStack.h"
+	"Queue.h"
+
+1522035502 c:\users\lenovo\desktop\editor\project\repealstack.h
+	"MSG.h"
+
+1523813127 source:c:\users\lenovo\desktop\editor\project\fileoper.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<iomanip>
+	<cstring>
+	<math.h>
+	"FileOper.h"
+
+1523805864 source:c:\users\lenovo\desktop\editor\project\main.cpp
+	<iostream>
+	<pthread.h>
+	<windows.h>
+	"Editdata.h"
+	"FileOper.h"
+	"TextEdit.h"
+	"MSG.h"
+	"ConDisplay.h"
+	"EmsgPack.h"
+
+1523178196 source:c:\users\lenovo\desktop\editor\project\queue.cpp
+	"queue.h"
+
+1523807926 source:c:\users\lenovo\desktop\editor\project\repealstack.cpp
+	<iostream>
+	<stdlib.h>
+	"repealstack.h"
+
+1523807790 source:c:\users\lenovo\desktop\editor\project\textedit.cpp
+	"TextEdit.h"
+
+1523809508 source:c:\users\dell\desktop\editor\project\condisplay.cpp
+	"ConDisplay.h"
+
+1523809540 c:\users\dell\desktop\editor\project\condisplay.h
+	<windows.h>
+	"MSG.h"
+	"Editdata.h"
+	"config.h"
+
+1523812214 c:\users\dell\desktop\editor\project\msg.h
+	"Editdata.h"
+
+1523809718 c:\users\dell\desktop\editor\project\editdata.h
+	<string.h>
+	<windows.h>
+	"config.h"
+
+1523802208 c:\users\dell\desktop\editor\project\config.h
+
+1523809662 source:c:\users\dell\desktop\editor\project\editdata.cpp
+	"Editdata.h"
+
+1523812214 source:c:\users\dell\desktop\editor\project\emsgpack.cpp
+	"EmsgPack.h"
+
+1523246346 c:\users\dell\desktop\editor\project\emsgpack.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	<string>
+	"queue.h"
+	"O_name.h"
+	"ConDisplay.h"
+	"Editdata.h"
+	"FileOper.h"
+	"TextEdit.h"
+	"MSG.h"
+
+1523178196 c:\users\dell\desktop\editor\project\queue.h
+	<stdlib.h>
+	<windows.h>
+	"MSG.h"
+
+1523236772 c:\users\dell\desktop\editor\project\o_name.h
+
+1523840625 c:\users\dell\desktop\editor\project\fileoper.h
+	<fstream>
+	"MSG.h"
+	"O_name.h"
+	"Editdata.h"
+
+1523095850 c:\users\dell\desktop\editor\project\textedit.h
+	<iostream>
+	<cstring>
+	"windows.h"
+	"MSG.h"
+	"O_name.h"
+	"Editdata.h"
+	"RepealStack.h"
+	"Queue.h"
+
+1522035502 c:\users\dell\desktop\editor\project\repealstack.h
+	"MSG.h"
+
+1523840627 source:c:\users\dell\desktop\editor\project\fileoper.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<iomanip>
+	<cstring>
+	<math.h>
+	"FileOper.h"
+
+1523840229 source:c:\users\dell\desktop\editor\project\main.cpp
+	<iostream>
+	<pthread.h>
+	<windows.h>
+	"Editdata.h"
+	"FileOper.h"
+	"TextEdit.h"
+	"MSG.h"
+	"ConDisplay.h"
+	"EmsgPack.h"
+
+1523178196 source:c:\users\dell\desktop\editor\project\queue.cpp
+	"queue.h"
+
+1523807926 source:c:\users\dell\desktop\editor\project\repealstack.cpp
+	<iostream>
+	<stdlib.h>
+	"repealstack.h"
+
+1523807790 source:c:\users\dell\desktop\editor\project\textedit.cpp
+	"TextEdit.h"
+
+1523806102 c:\users\dell\desktop\editor\project\editdata.cpp
+	"Editdata.h"
+
